@@ -1,2 +1,3 @@
 # hello-world
-The glorious hello world tradition
+
+"Hello, world!" is the glorious hello world tradition in computer programming. Nearly everyone starts their journey of programming by printing out "Hello, world!".
